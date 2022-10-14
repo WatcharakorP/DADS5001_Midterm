@@ -17,3 +17,13 @@ Dataset มีทั้งหมด5ไฟล์ : \
 ![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/8b459f2196845663c865d0d39ed366c7f0028a9a/CleaningData.JPG)
 
 ![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/b9b1c4f6036bcda9c5212d42a2bec55fa379d06d/DistributionData.JPG)
+
+# Visualization
+*จำนวนประเทศในแต่ละภูมิภาคจากข้อมูลที่เราใช้
+
+![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/dcb92e5fc64d7431343ec86e4719a664d70f61ec/Overall-01.JPG)
+![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/dcb92e5fc64d7431343ec86e4719a664d70f61ec/Overall-02.JPG)
+
+#Analyzing Thailand Happiness
+
+![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/main/AnalyzingThailand.JPG)
