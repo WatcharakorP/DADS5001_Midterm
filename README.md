@@ -17,4 +17,4 @@ Freedom : เสรีภาพในการเลือกในชีวิ�
 Trust (Government Corruption) : การรับรู้การทุจริต
 Generosity : ความเอื้ออาทร
 
-![image](https://user-images.githubusercontent.com/107410157/189485680-2a6b702b-2799-4b5b-98da-5b122ced2b53.png)
+![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/f568fb71fdfc310649c2c9bacbc0dc5ef0c6a4aa/Dataset_columns.JPG)
