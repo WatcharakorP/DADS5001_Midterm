@@ -9,8 +9,8 @@ World Happiness Report เป็นการประเมินระดับ
 2.ทั้ง6ปัจจัยตามที่ Report ระบุมีผลต่อความสุขของประเทศอย่างมีนัยสำคัญหรือ?
 
 # Data Set & Cleaning :
-ชุดข้อมูลที่เลือกใช้คือชุดข้อมูล World Happiness report 2015 ซึ่งพิจารณา จากปัจจัย 6 ประการด้วยกัน ได้แก่
-Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity
+ชุดข้อมูลที่เลือกใช้คือชุดข้อมูล World Happiness report 2015 ซึ่งพิจารณาจากปัจจัย 6ประการด้วยกัน ได้แก่
+Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity\
 Dataset มีทั้งหมด5ไฟล์ : 2015.csv(158, 12), 2016.csv(157, 13), 2017.csv(155, 12), 2018.csv(156, 9), 2019.csv(156, 9)
 
 ![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/8b459f2196845663c865d0d39ed366c7f0028a9a/CleaningData.JPG)
