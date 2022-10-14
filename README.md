@@ -31,3 +31,17 @@ Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Governme
 # Analyzing Thailand Happiness
 
 ![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/main/AnalyzingThailand.JPG)
+
+# Discussion
+**สงสัยหรือไม่?\
+ทำไมประเทศไทยมีปัจจัยบางหัวข้อที่ดีกว่าประเทศ 10อันดับแรกของโลกแต่มีคะแนนความสุขน้อยกว่า \
+หรือประเทศไทยมีปัจจัยที่ดีกว่าปสิงคโปร์ถึง 3 ปัจจัยแต่ได้คะแนน Happiness Score น้อยกว่าประเทศสิงค์โปร์
+
+![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/fbb2846df379a5249c427495eee85b6d3826a96c/Correlation.JPG)
+
+เฉลย: ก็เป็นเพราะความสัมพันธ์ของข้อมูลใช้ในการคิด Happiness score ในแต่ล่ะปัจจัยไม่เท่ากัน กล่าวคือการเพิ่มขึ้นหรือลดลงในปัจจัยหนึ่งๆ ส่งผลกระทบต่อ Happiness score ไม่เท่ากัน
+
+# Conclussion
+
+![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/fbb2846df379a5249c427495eee85b6d3826a96c/Conclussion.JPG)
+
