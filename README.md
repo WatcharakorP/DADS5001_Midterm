@@ -2,8 +2,8 @@
 
 ## 📂 Introduction: 
   World Happiness Report เป็นการประเมินระดับความสุขของประชาชนหลายล้านคนใน 146 ประเทศทั่วโลก ซึ่งจัดอันดับ 155 ประเทศตาม <br>
-  คะแนนความสุข(Happiness score)<br> โดยพิจารณาจากปัจจัย 6ประการได้แก่ GDP, Family, Life Expectancy, Generosity, Trust in Government and Freedom <br>
-  ซึ่งผลรวมของปัจจัยทั้งเหล่าทำให้เกิดเป็นคะแนนความสุข(Happiness score) 
+  คะแนนความสุข(Happiness score) โดยพิจารณาจากปัจจัย 6ประการได้แก่ GDP, Family, Life Expectancy, Generosity, <br>
+  Trust in Government and Freedom <br>ซึ่งผลรวมของปัจจัยทั้งเหล่าทำให้เกิดเป็นคะแนนความสุข(Happiness score) 
 
 ## 🚩 Object : 
 ต้องการวิเคราะห์เพื่อหาคำตอบที่น่าสนใจดังนี้<br>
@@ -19,7 +19,7 @@
  - [✨ 2017.csv(155, 12)](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2017.csv) <br>
  - [✨ 2018.csv(156, 9)](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2018.csv) <br>
  - [✨ 2019.csv(156, 9)](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2019.csv) <br>
-**ref : [https://www.kaggle.com/datasets/unsdsn/world-happiness] (https://www.kaggle.com/datasets/unsdsn/world-happiness)
+**`ref : [https://www.kaggle.com/datasets/unsdsn/world-happiness](https://www.kaggle.com/datasets/unsdsn/world-happiness)`**
    
 ![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/8b459f2196845663c865d0d39ed366c7f0028a9a/CleaningData.JPG)
 
