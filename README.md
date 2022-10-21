@@ -8,7 +8,7 @@ World Happiness Report เป็นการประเมินระดับ
 * 1.การปรับตัวในช่วง 5 ปีของประเทศไทย และเปรียบเทียบกับ Top10 ของโลกเป็นอย่างไร?\
 * 2.ทั้ง6ปัจจัยตามที่ Report ระบุมีผลต่อความสุขของประเทศอย่างมีนัยสำคัญหรือ?
 
-# Data Set & Cleaning :
+## Data Set & Cleaning :
 ชุดข้อมูลที่เลือกใช้คือชุดข้อมูล World Happiness report 2015 ซึ่งพิจารณาจากปัจจัย 6ประการด้วยกัน ได้แก่
 Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity\
 **Dataset มีทั้งหมด5ไฟล์ : \
@@ -20,7 +20,7 @@ Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Governme
 
 ## Visualization
 
-`* จำนวนประเทศในแต่ละภูมิภาคจากข้อมูลที่เราใช้ *`
+`*จำนวนประเทศในแต่ละภูมิภาคจากข้อมูลที่เราใช้*`
 
 ![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/dcb92e5fc64d7431343ec86e4719a664d70f61ec/Overall-01.JPG)
 
