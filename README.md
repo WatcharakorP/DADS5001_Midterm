@@ -13,7 +13,7 @@
 ## 📝 Data Set & Cleaning :
 ชุดข้อมูลที่เลือกใช้คือชุดข้อมูล World Happiness report 2015 ซึ่งพิจารณาจากปัจจัย 6ประการด้วยกัน<br>
 ได้แก่ Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity<br>
-** Dataset มีทั้งหมด5ไฟล์ : <br>
+** Dataset มีทั้งหมด5ไฟล์ :** <br>
  - [✨ 2015.csv(158, 12)](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2015.csv) <br>
  - [✨ 2016.csv(157, 13)](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2016.csv) <br>
  - [✨ 2017.csv(155, 12)](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2017.csv) <br>
