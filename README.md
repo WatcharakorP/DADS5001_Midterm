@@ -1,12 +1,12 @@
 # Analysis of World Happiness
 
-# Introduction: 
+## Introduction: 
 World Happiness Report เป็นการประเมินระดับความสุขของประชาชนหลายล้านคนใน 146 ประเทศทั่วโลก ซึ่งจัดอันดับ 155 ประเทศตาม คะแนนความสุข(Happiness score) โดยพิจารณาจากปัจจัย 6ประการได้แก่ GDP, Family, Life Expectancy, Generosity, Trust in Government and Freedom ซึ่งผลรวมของปัจจัยทั้งเหล่าทำให้เกิดเป็นคะแนนความสุข(Happiness score) 
 
-# Object : 
+## Object : 
 ต้องการวิเคราะห์เพื่อหาคำตอบที่น่าสนใจดังนี้\
-1.การปรับตัวในช่วง 5 ปีของประเทศไทย และเปรียบเทียบกับ Top10 ของโลกเป็นอย่างไร?\
-2.ทั้ง6ปัจจัยตามที่ Report ระบุมีผลต่อความสุขของประเทศอย่างมีนัยสำคัญหรือ?
+* 1.การปรับตัวในช่วง 5 ปีของประเทศไทย และเปรียบเทียบกับ Top10 ของโลกเป็นอย่างไร?\
+* 2.ทั้ง6ปัจจัยตามที่ Report ระบุมีผลต่อความสุขของประเทศอย่างมีนัยสำคัญหรือ?
 
 # Data Set & Cleaning :
 ชุดข้อมูลที่เลือกใช้คือชุดข้อมูล World Happiness report 2015 ซึ่งพิจารณาจากปัจจัย 6ประการด้วยกัน ได้แก่
@@ -18,9 +18,9 @@ Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Governme
 
 ![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/b9b1c4f6036bcda9c5212d42a2bec55fa379d06d/DistributionData.JPG)
 
-# Visualization
+## Visualization
 
-**จำนวนประเทศในแต่ละภูมิภาคจากข้อมูลที่เราใช้
+`* จำนวนประเทศในแต่ละภูมิภาคจากข้อมูลที่เราใช้ *`
 
 ![image](https://github.com/WatcharakorP/DADS5001_Midterm/blob/dcb92e5fc64d7431343ec86e4719a664d70f61ec/Overall-01.JPG)
 
